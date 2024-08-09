@@ -1,0 +1,139 @@
+.A 
+{
+    width:100%;
+    height:40px;
+    background-color: brown;
+    color:white;
+    text-align:center;
+    border-radius:15px;
+    font-family: monospace;
+    font-size:18px;
+    text-transform:uppercase;
+    padding-top:20px;
+    border:6px solid rgb(3, 16, 16);
+}
+.B 
+{
+    width:500px;
+    height:36px;
+    background-color: brown;
+    color:white;
+    text-align:center;
+    border-radius:15px;
+    font-family: monospace;
+    font-size:18px;
+    text-transform:uppercase;
+    border:3px solid cyan;
+    padding-top:15px;
+
+}
+.C 
+{
+    width:500px;
+    height:250px;
+    background-color:rgb(255, 111, 0);
+    border: 8px solid brown;
+    border-radius:15px;
+    margin-top:10px;
+    padding-top:100px;
+
+}
+label 
+{
+    font-family: monospace;
+    font-size:15px;
+    text-transform:uppercase;
+}
+input[type="text"]
+{
+    width:250px;
+    height:25px;
+    border-radius:20px;
+    text-align:center;
+    font-family: monospace;
+    font-size:14px;
+    border:2px solid brown;
+}
+input[type="password"]
+{
+    width:250px;
+    height:25px;
+    border-radius:20px;
+    text-align:center;
+    font-family: monospace;
+    font-size:14px;
+    border:2px solid brown;
+}
+input[type="submit"]
+{
+    width:120px;
+    height:25px;
+    border-radius:15px;
+    background-color: brown;
+    color:white;
+    text-align:center;
+    border:2px solid black;
+    cursor:pointer;
+    
+}
+input[type="reset"]
+{
+    width:120px;
+    height:25px;
+    border-radius:15px;
+    background-color: brown;
+    color:white;
+    text-align:center;
+    border:2px solid black;
+    cursor:pointer;
+    
+}
+
+input[type="submit"]:hover 
+{
+    background-color: rgb(24, 5, 5);
+    
+}
+input[type="reset"]:hover 
+{
+    background-color: black;
+    
+}
+body 
+{
+    background-image: url("/gla_logo.jpg");
+    background-size: cover;
+  
+}
+ul 
+{
+    list-style: none;
+}
+ul>li>a 
+{
+    text-decoration:none;
+    color:white;
+    font-family:monospace;
+    font-size:12px;
+    
+}
+li 
+{
+    display:inline-block;
+    width:70px;
+    height:25px;
+    background-color: brown;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+}
+.ABC 
+{
+    float:right;
+    margin-top:-40px;
+    width:175px;
+    height:30px;
+    border-radius:15px;
+    text-align:center;
+
+}

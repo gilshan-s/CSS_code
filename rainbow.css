@@ -1,0 +1,43 @@
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif,serif;
+    text-align:center;
+}
+td
+{
+ height:50px;
+ width:50px;
+ border: 6px solid rgb(102, 119, 126);
+
+}
+#one
+{
+    background: #9400D3;
+}
+#two
+{
+    background:#4B0082;
+
+}
+#three
+{
+    background: #0000FF;
+
+}
+#four
+{
+    background: #00FF00;
+}
+#five
+{
+    background: #FFFF00;
+
+}
+#six
+{
+    background: #FF7F00;
+}
+#seven
+{
+    background:#FF0000;
+}

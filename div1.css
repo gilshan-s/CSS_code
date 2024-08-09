@@ -1,0 +1,64 @@
+.A 
+{
+    width:200px;
+    height:200px;
+    background-color: brown;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    font-family:monospace;
+    font-size:20px;
+
+}
+.B
+{
+    width:200px;
+    height:200px;
+    background-color:black;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    font-family:monospace;
+    font-size:16px;
+    visibility:hidden;
+    /* display: none; */
+
+}
+.C
+{
+    width:200px;
+    height:200px;
+    background-color:green;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    font-family:monospace;
+    font-size:16px;
+
+}
+.D
+{
+    width:200px;
+    height:200px;
+    background-color:orange;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    font-family:monospace;
+    font-size:16px;
+
+}
+.E
+{
+    width:200px;
+    height:200px;
+    background-color:purple;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    font-family:monospace;
+    font-size:16px;
+}
+
+
+
